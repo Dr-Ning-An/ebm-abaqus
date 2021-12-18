@@ -1,6 +1,6 @@
 # ebm-abaqus
 
-Created by Ning An (aning003@gmail.com)
+Created by Ning An (anning@scu.edu.cn)
 
 November, 2020
 
